@@ -1,0 +1,142 @@
+a:hover{
+	font-family:Impact;
+}
+.collapse a.drop:hover{
+	font-family:Impact;
+	background-color: #bbc1c2;
+}
+
+.resumeheaders{
+	color:#222222;
+	font-family:Impact;
+	text-align:center;
+}
+
+#left{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+display: inline-block;
+	margin-left: 5px;
+	height:100;
+	width:100;
+	border-radius:100%;
+	border:2px solid black;	
+}
+
+#dp{
+	width: 25em;
+	height: 25em;
+	position: relative;
+}
+#displayPic2{
+	width: 25em;
+	height: 25em;
+	position: relative;
+	
+}
+#vertLine{
+	border: 1px solid  #0a1010;
+	height:500px;
+	margin: auto;
+	width: 1px;
+};
+
+#name{
+color:#b49768;
+font-family:Cursive;
+text-shadow: -2px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+	
+}
+
+#desk_myself{
+	font-family:Cursive;
+	color:white;
+	text-align:justify;
+	text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+}
+
+#mob_myself{
+	font-family:Times New Roman;
+	color:white;
+	text-align:justify;
+	text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+}
+
+#ProjHeader{
+	color:#b49768;
+	font-family:Impact;
+	text-align:center;
+	text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+}
+
+#carouselHeaders{
+	color:white;
+}
+
+.carousel-caption {
+   position: absolute;
+   top:150px;
+}
+
+#projbody{
+	text-align:justify;
+}
+
+#dp{
+	width:20em;
+	height:325px;
+	max-height:325px;
+	border-radius:50%; 
+	border:1px solid black
+}
+
+
+
+.footer-class{
+	background-color:#222222;
+	min-height: 7em;
+}
+
+#mail-icon{
+	line-height: 2em;
+	font-size: 2em;
+	text-align: center;
+	color: rgb(234,229,229);
+}
+
+
+#phone-icon{
+	line-height: 2em;
+	font-size: 2em;
+	text-align: center;
+	color: rgb(234,229,229);
+}
+#follow-icon{
+	line-height:2em;
+	font-size: 2em;
+	text-align: center;;
+	color: rgb(234,229,229);
+}
+.footer-text{
+	font-size: 1em;
+	text-align: center;
+	color: rgb(232,228,228);
+}
+#footer-alternate-mail{
+	line-height: 0em;
+	color: rgb(234,229,229);
+}
+#footer-primary-mail{
+	/*margin-top: -1em;;*/
+	color: rgb(234,229,229);
+}
+#footer-primary{
+	/*margin-top: -1em;*/
+}
+#footer-googlevoice{
+	line-height: 0em;
+	/*margin-top: -3.5em;*/
+}
